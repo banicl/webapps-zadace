@@ -4,4 +4,5 @@ var con = function (x) {
     console.log(x);
     return x / eu;
 }
+
 console.log("EUR: " + con(x));
