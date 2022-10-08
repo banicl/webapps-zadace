@@ -10,5 +10,4 @@ var vk = function (x) {
         return ispis;
     }
 };
-
 console.log("Rezultat dobiven množenjem svih višekratnika broja 7 do 1000: " + vk(x));
